@@ -3,10 +3,10 @@
 	margin:20px;
 }
 span:first-child{
-	color:red;
+	color:#f00;
 	font-size:20px;
 }
 span:last-child{
-	color:red;
+	color:#f00;
 	font-size:20px;
 }
